@@ -1,6 +1,5 @@
+import IRC.sendString
 import com.lambda.client.command.ClientCommand
-import com.lambda.IRC
-import com.lambda.IRC.sendString
 import com.lambda.client.util.text.MessageSendHelper
 
 object IRCCommand : ClientCommand(

@@ -1,11 +1,11 @@
 {
-  "name": "ExamplePlugin",
+  "name": "IRCPlugin",
   "version": "1.0",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "description": "Talk with your homies like if there was the group function on 2b2t",
+  "url": "https://github.com/Edouard127/ircChatPluginLambda",
+  "authors": [ "Kamigen" ],
+  "main_class": "com.lambda.ircplugin",
   "min_api_version": "3.0",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
+  "mixins": [ "mixins.ircplugin.json" ],
   "required_plugins": []
 }
