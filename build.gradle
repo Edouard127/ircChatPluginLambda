@@ -127,7 +127,7 @@ dependencies {
 
 mixin {
     defaultObfuscationEnv 'searge'
-    add sourceSets.main, 'mixins.ircplugin.refmap.json'
+    add sourceSets.main, 'mixins.lambda.refmap.json'
 }
 
 processResources {

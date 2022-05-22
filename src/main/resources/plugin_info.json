@@ -4,8 +4,6 @@
   "description": "Talk with your homies like if there was the group function on 2b2t",
   "url": "https://github.com/Edouard127/ircChatPluginLambda",
   "authors": [ "Kamigen" ],
-  "main_class": "com.lambda.ircplugin",
-  "min_api_version": "3.0",
-  "mixins": [ "mixins.ircplugin.json" ],
-  "required_plugins": []
+  "main_class": "com.lambda.FunnyIRC",
+  "min_api_version": "3.0"
 }
